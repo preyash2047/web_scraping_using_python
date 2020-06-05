@@ -7,6 +7,8 @@ Even i have stored it's details into csv for forther analysis.
 Files:
 1. Flipkart_search (withour chrome driver)
 2. zomato_search (with chrome driver)
+3. justdial.com
+4. targetstudy.com
 
 Note: Please make sure that chrome driver and chrome brouser are of same version.
 here is the link to download chrome driver: https://chromedriver.chromium.org/downloads
